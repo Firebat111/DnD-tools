@@ -1,4 +1,6 @@
-This simple tool will allow you to display static and animated maps. It is designed for use with a TV for in person D&D play.
+This simple tool will allow you to display static and animated maps. It is designed for use with a TV for in person TTRPG play.
+
+I am not a programmer, I used Google's AI studio to help me make this. I wanted a tool that could easily project maps without all the other features that great tools like Foundry or Arkenforge provide.
 
 1) Download .zip file
 2) Extract
