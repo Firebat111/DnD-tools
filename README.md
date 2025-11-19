@@ -17,5 +17,8 @@ Player View: Open separate window.
 Tip: Middle mouse always pans.
 
 DM VIEW DM Controls
+<img width="1893" height="903" alt="DM Controls" src="https://github.com/user-attachments/assets/3535a500-de81-4e0e-81dc-f3d1e415c023" />
+
 
 Player/TV VIEW Player view
+<img width="2360" height="1229" alt="Player view" src="https://github.com/user-attachments/assets/363f18f4-afe1-4a99-b848-9a2830b0ddc7" />
