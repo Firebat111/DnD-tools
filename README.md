@@ -4,6 +4,7 @@ This simple tool will allow you to display static and animated maps. It is desig
 2) Extract
 3) Run Index.html
 4) How to Use
+
 Load Map: Select a folder.
 
 Pan/Zoom: 'Pan & Zoom' mode.
