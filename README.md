@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+This simple tool will allow you to display static and animated maps. It is designed for use with a TV for in person TTRPG play.
 
-# Run and deploy your AI Studio app
+I am not a programmer, I used Google's AI studio to help me make this. I wanted a tool that could easily project maps without all the other features that great tools like Foundry or Arkenforge provide.
 
-This contains everything you need to run your app locally.
+Download .zip file
+Extract
+Run Index.html
+How to Use
+Load Map: Select a folder.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1X992CgfjlvOlsuVFyxYpDA4LvaxIpNsa
+Pan/Zoom: 'Pan & Zoom' mode.
 
-## Run Locally
+Fog: 'Edit Fog'. Left Click to reveal, Right Click to hide.
 
-**Prerequisites:**  Node.js
+Player View: Open separate window.
 
+Tip: Middle mouse always pans.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+DM VIEW DM Controls
+
+Player/TV VIEW Player view
